@@ -9,7 +9,7 @@ npm install
 ```
 feat: descripcion del commit, fix: descripcion del commit, refactor: descripcion del commit
 ```
-4. Uso
+4. Crear release de changelog y build
 ```
 npm run release
 ```
